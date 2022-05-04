@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 1.6rem;
+}
+
+:root {
+  font-size: 62.5%;
+  /* 10px */
+}
+
+h4 {
+  font-size: 1.4rem;
+  color: #00856f;
+}
+
+h1 {
+  font-size: 3.4rem;
+}
+/*# sourceMappingURL=styles.css.map */

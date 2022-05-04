@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 1.6rem;
+}
+
+:root {
+  --primary-color: hsla(170, 100%, 26%)
+  --headline: hsla(210, 11%, 15%)
+  --paragraph: hsla(210, 9%, 31%)
+  font-size: 62.5%; /* 10px */
+}
+
+h4 {
+  font-size: 1.4rem;
+  color: var(--primary-color)
+}
+
+h1 {
+  font-size: 3.4rem;
+  color: var(--headline);
+  line-height: 130%;
+}
+
+p {
+  font-size: 1.8rem;
+  line-height: 150%;
+  font-weight: 400;
+  color: var(--paragraph);
+}
+
+button {
+  background: red;
+  border: none;
+  border-radius: 1rem;
+}
